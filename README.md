@@ -15,7 +15,9 @@ The dataset used in this project was retrieved from the National Health and Nutr
 
 
 ## Analysis Summary
-This section is a quick summary of my findings. You can find the full analysis and details in the [Analysis](https://github.com/stgordillo/smoking_healthcare_python_project/blob/e374cb1867358d67f65efbf0d647cfe3316fb58b/Analysis.py).
+This section is a quick summary of my findings. You can find the full code and details in the [Analysis](https://github.com/stgordillo/smoking_healthcare_python_project/blob/e374cb1867358d67f65efbf0d647cfe3316fb58b/Analysis.py).
+
+You can also find the visualizations created in Python in [Visualizations](https://github.com/stgordillo/smoking_healthcare_python_project/blob/8d2c66b70e7e49c3ed54c9e7f323cb09e62c08c8/Visualizations.md).
 
 **Analysis**
 * Created 4 histograms looking at the count of participants age, weight, height and BMI score
