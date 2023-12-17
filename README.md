@@ -17,9 +17,12 @@ The dataset used in this project was retrieved from the National Health and Nutr
 ## Analysis Summary
 This section is a quick summary of my findings. You can find the full analysis and details in the [Analysis](https://github.com/stgordillo/Student-Performance-SQL/blob/4b6d5518e1e779aee94e8a89c852d5d88f1140c7/Analysis.sql).
 
-**Queries**
-STOPPED HERE
-* First, I checked to make sure the csv was loaded properly and to look at the information given.
-* The second query I combined all the scores together and ordered them to see top 5 scores.
-* The third query was used as a starting place for the next, more complex query and to confirm that gender and race/ethnicity was working properly and present for both values. 
-* The last query is essentially performing an analysis of student performance based on their total scores, gender, and race/ethnicity.  I used a WITH clause, JOINS and aggregation to find the scores above and below average.
+**Analysis**
+* Created 4 histograms looking at the count of participants age, weight, height and BMI score
+  * Found participants were in a generally healthy range. Age was mostly evenly spread, with a higher number of elderly
+* Created a boxplot looking at age groups, gender and systolic blood pressure of participants
+  * Number of outliers, with participants mostly in the at-risk range. Females generally healthier than males
+* Created 2 bar charts, looking at the count and percentage of participants smoking habits, divided by gender
+  * More males smoke by a significant margin. 
+* Lastly, created 3 pie charts. One looking at similar data to the bar chart, another looking at correlation of smokers and relationship status, and the last looking at the correlation of education and smoking.
+  * Married participants take up almost 50% of smokers. Those in the range of high school diploma or GED to some college or associate's degree smoke more than participants of other education levels.
