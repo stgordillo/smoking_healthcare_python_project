@@ -11,6 +11,7 @@ Boxplot using data for participant ages, genders and their systolic blood pressu
 ## Bar Charts
 ![Barchart1](https://github.com/stgordillo/smoking_healthcare_python_project/assets/138537215/f29e8773-7421-45e7-a739-f505f2f02476)
 ![Barchart2](https://github.com/stgordillo/smoking_healthcare_python_project/assets/138537215/52d0e6c2-cb05-4f12-8412-07e2655ab67d)
+
 Two bar charts. They both look at participant's smoking habits. The question asked if they smoked at least once in their lifetime with answers between "Yes", "No", "Don't know" and "Refused". The bars are seperated by gender and the first one looks at total count, while the second chart looks at percentage.
 
 ## Pie Charts
